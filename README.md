@@ -1,12 +1,11 @@
 # Supabase
 
-## Capturas de pantalla
+## Captura de pantalla — USUARIOS
+![Supabase — Tabla Usuarios](https://github.com/user-attachments/assets/54884613-3702-471d-aa69-6d309ca2d2c5)
 
-### Usuarios
-![Supabase — Tabla Usuarios](https://github.com/user-attachments/assets/77ca343d-e758-4704-af75-0414ebdf3549)
+## Captura de pantalla — MASCOTA
+![Supabase — Tabla Mascota](https://github.com/user-attachments/assets/3e395911-dc67-4fe8-9ab2-7f0f295692de)
 
-### Mascota
-![Supabase — Tabla Mascota](https://github.com/user-attachments/assets/f3272ee2-603e-41d7-9953-8d4fe90f4d20)
-
-### Consulta de verificación (JOIN)
+## Consulta de verificación (JOIN)
 ![Supabase — Query de verificación](https://github.com/user-attachments/assets/eefb158e-5f1f-42e8-800c-02d8c089ea72)
+
